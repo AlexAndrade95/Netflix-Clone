@@ -4,5 +4,5 @@ HTMl5,
 CSS3,
 bootstrap.
 
-link do site: 
+link do projeto: 
 https://alex-dev-netflix-simulate.netlify.app/
