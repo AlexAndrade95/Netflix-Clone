@@ -2,6 +2,7 @@
 tecnologias usadas:
 HTMl5,
 CSS3,
+jquery,
 bootstrap.
 
 link do projeto: 
